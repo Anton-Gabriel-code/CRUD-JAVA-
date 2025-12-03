@@ -30,8 +30,7 @@ src/
            │     └── TarefaService.java
            └── app/
                  └── Main.java
-
-
+```  
 
 ## 🧠 Conceitos Utilizados
 - Programação Orientada a Objetos (POO)
