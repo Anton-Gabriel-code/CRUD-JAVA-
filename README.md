@@ -18,13 +18,19 @@ As operações disponíveis são:
 
 ## 📂 Estrutura do Projeto
 
+```bash
 src/
  └── main/
       └── java/
-           ├── model/Tarefa.java
-           ├── repository/TarefaRepository.java
-           ├── service/TarefaService.java
-           └── app/Main.java
+           ├── model/
+           │     └── Tarefa.java
+           ├── repository/
+           │     └── TarefaRepository.java
+           ├── service/
+           │     └── TarefaService.java
+           └── app/
+                 └── Main.java
+
 
 
 ## 🧠 Conceitos Utilizados
@@ -54,19 +60,19 @@ Executar o sistema
 - java -cp out app.Main
 
 📌 Funcionalidades
- Criar tarefas
+- Criar tarefas
 
- Listar tarefas
+- Listar tarefas
 
- Atualizar tarefas
+- Atualizar tarefas
 
- Excluir tarefas
+- Excluir tarefas
 
- IDs autoincrementados
+- IDs autoincrementados
 
- Datas no formato AAAA-MM-DD
+- Datas no formato AAAA-MM-DD
 
- Código organizado em pacotes
+- Código organizado em pacotes
 
 👤 Autor
 Eudes Oliveira
