@@ -19,16 +19,12 @@ As operações disponíveis são:
 ## 📂 Estrutura do Projeto
 
 src/
-└── main/
-└── java/
-├── model/
-│ └── Tarefa.java
-├── repository/
-│ └── TarefaRepository.java
-├── service/
-│ └── TarefaService.java
-└── app/
-└── Main.java
+ └── main/
+      └── java/
+           ├── model/Tarefa.java
+           ├── repository/TarefaRepository.java
+           ├── service/TarefaService.java
+           └── app/Main.java
 
 
 ## 🧠 Conceitos Utilizados
